@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gravity_intel/static/css/main.e88df501.css",
-    "main.js": "/gravity_intel/static/js/main.edd62798.js",
+    "main.js": "/gravity_intel/static/js/main.747d420a.js",
     "static/js/488.25705746.chunk.js": "/gravity_intel/static/js/488.25705746.chunk.js",
     "static/media/icononly_transparent_nobuffer.png": "/gravity_intel/static/media/icononly_transparent_nobuffer.ac94116a577e2760a0a9.png",
     "static/media/facebook.png": "/gravity_intel/static/media/facebook.13863c99c209978a4569.png",
     "static/media/google.png": "/gravity_intel/static/media/google.e12914ad8afda3f6f2e8.png",
     "index.html": "/gravity_intel/index.html",
     "main.e88df501.css.map": "/gravity_intel/static/css/main.e88df501.css.map",
-    "main.edd62798.js.map": "/gravity_intel/static/js/main.edd62798.js.map",
+    "main.747d420a.js.map": "/gravity_intel/static/js/main.747d420a.js.map",
     "488.25705746.chunk.js.map": "/gravity_intel/static/js/488.25705746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e88df501.css",
-    "static/js/main.edd62798.js"
+    "static/js/main.747d420a.js"
   ]
 }
